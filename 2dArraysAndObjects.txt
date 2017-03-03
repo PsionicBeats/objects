@@ -32,6 +32,7 @@ var uhdata = [
 ];
 
 How would you access value "Liberal Arts" in CIP_DESC?
+console.log(uhdata[]);
 
 2. Display "John" by extracting information from the person object
 
@@ -49,6 +50,8 @@ var bear = {
 	height: "5 cm",
 	favoriteFood: "marshmallows"
 };
+
+
 
 4. Access the object in the previous question to display "Grizzly Bear loves marshmallows" as a string concatenation.
 
